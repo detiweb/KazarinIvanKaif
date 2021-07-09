@@ -1,0 +1,75 @@
+body{
+	background:lightcoral;
+	background-repeat: no-repeat;
+	font-family: 'Festive', cursive;
+	margin: 0;
+	padding: 0;
+	padding-left: 3px;
+}
+img{
+	border: 6px solid darkcyan;
+	border-radius: 10px;
+	width: 25%;
+	margin-left: 37%;
+}
+p{
+	color: #8A2BE2;
+	background:lightcoral;
+	font-size: x-large;
+	margin-left: 3%;
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+		margin: 0;
+	padding: 0;
+}
+h2{
+	text-align: center;
+	text-decoration: underline;
+}
+nav{
+	text-align: center;
+}
+a:hover{
+	color: green;
+}
+header{
+	background-color:#FFD700 ;
+	height: 400px;
+
+}
+.card{	
+	width: 40%;
+	height: 30%;
+	margin-left: 5%;
+	display: inline-block;
+	box-shadow: 0 8px 16px 0 white;
+}
+.cart{	
+	width: 40%;
+	height: 30%;
+	margin-left: 5%;
+	display: inline-block;
+	box-shadow: 0 8px 16px 0 white;
+}
+.img3{
+	position: fixed;
+	top: 600px;
+	right: 10px;
+	z-index: 10;
+}
+a{
+	margin-left: 3%;
+}
+img{
+	width: 30%;
+	height: 300px;
+}
+.cars{
+		width: 40%;
+	height: 30%;
+	margin-left: 5%;
+	display: inline-block;
+	box-shadow: 0 8px 16px 0 white;
+}
